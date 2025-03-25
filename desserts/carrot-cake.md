@@ -1,23 +1,23 @@
-# Ricetta torta di carote
+# Carrot Cake Recipe
 
-## Ingredienti
-- 200 g farina di nocciole
-- 180 g carote
-- 50 g olio di girasole
-- 140 g acqua
-- 140 g zucchero di canna
-- 150 g farina
-- 15 g lievito per dolci
-- 1/2 cucchiaino noce moscata
-- pizzico di sale
+## Ingredients
+- 200 g hazelnut flour  
+- 180 g carrots  
+- 50 g sunflower oil  
+- 140 g water  
+- 140 g brown sugar  
+- 150 g flour  
+- 15 g baking powder  
+- 1/2 teaspoon nutmeg  
+- Pinch of salt  
 
-## Istruzioni
-- Taglia e trita le carote in un mixer
-- Aggiungi acqua, olio e zucchero al mixer
-- Setaccia farina e lievito per dolci
-- Aggiungi farina di nocciole, sale e noce moscata alle polveri
-- Amalgama liquidi e polveri
-- Imburra una tortiera di 20 cm
+## Instructions
+- Chop the carrots in a food processor  
+- Add water, oil, and sugar to the processor  
+- Sift the flour and baking powder  
+- Add hazelnut flour, salt, and nutmeg to the dry ingredients  
+- Mix the wet and dry ingredients together  
+- Grease a 20 cm cake pan  
 
-## Cottura
-- Inforna a 180 gradi per 40 minuti
+## Baking
+- Bake at 180°C (356°F) for 40 minutes  
