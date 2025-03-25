@@ -1,5 +1,7 @@
 # Vegetarian lasagna recipe
 
+[!WARNING]  
+This recipe is far from the original Italian lasagna (even the vegetarian version). Using shredded mozzarella is a sin.
 
 ## Ingredients
 
